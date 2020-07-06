@@ -1,0 +1,13 @@
+C:\src\OperatorSplitter\bin\Debug\netcoreapp3.1\OperatorSplitter.exe
+C:\src\OperatorSplitter\bin\Debug\netcoreapp3.1\OperatorSplitter.deps.json
+C:\src\OperatorSplitter\bin\Debug\netcoreapp3.1\OperatorSplitter.runtimeconfig.json
+C:\src\OperatorSplitter\bin\Debug\netcoreapp3.1\OperatorSplitter.runtimeconfig.dev.json
+C:\src\OperatorSplitter\bin\Debug\netcoreapp3.1\OperatorSplitter.dll
+C:\src\OperatorSplitter\bin\Debug\netcoreapp3.1\OperatorSplitter.pdb
+C:\src\OperatorSplitter\obj\Debug\netcoreapp3.1\OperatorSplitter.csprojAssemblyReference.cache
+C:\src\OperatorSplitter\obj\Debug\netcoreapp3.1\OperatorSplitter.csproj.CoreCompileInputs.cache
+C:\src\OperatorSplitter\obj\Debug\netcoreapp3.1\OperatorSplitter.AssemblyInfoInputs.cache
+C:\src\OperatorSplitter\obj\Debug\netcoreapp3.1\OperatorSplitter.AssemblyInfo.cs
+C:\src\OperatorSplitter\obj\Debug\netcoreapp3.1\OperatorSplitter.dll
+C:\src\OperatorSplitter\obj\Debug\netcoreapp3.1\OperatorSplitter.pdb
+C:\src\OperatorSplitter\obj\Debug\netcoreapp3.1\OperatorSplitter.genruntimeconfig.cache

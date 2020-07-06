@@ -1,0 +1,1 @@
+Example for splitting on defined operators using RegEx in .NET Core
